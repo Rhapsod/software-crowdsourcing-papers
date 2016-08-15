@@ -1,6 +1,11 @@
 # software-crowdsourcing-papers
 An up-to-date list of publications on the use of crowdsourcing in software engineering
 
+### TODO List
+- [ ] Add recently published papers
+- [ ] List by category
+- [ ] Bibtex entries
+
 ### Survey paper
 A survey of software crowdsourcing papers published before 2016 can be found here:
 > Ke Mao, Licia Capra, Mark Harman and Yue Jia. A Survey of the Use of Crowdsourcing in Software Engineering. Technical Report RN/15/01, Department of Computer Science, University College London, 2015. [[pdf]](http://www.cs.ucl.ac.uk/fileadmin/UCL-CS/research/Research_Notes/rn_15_01.pdf)
