@@ -4,6 +4,7 @@ An up-to-date list of publications on the use of crowdsourcing in software engin
 ### TODO List
 - [ ] Add recently published papers
 - [ ] List by category
+- [ ] Pdf file links
 - [ ] Bibtex entries
 
 ### Survey paper
